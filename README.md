@@ -1,10 +1,18 @@
 # RESUMEN
 Resumen de proyectos
 
-Customer_support_data
+1) Customer_support_data
 
 https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction
 
 GITHUB
 
 https://github.com/DavidGN2016GFS/ecommerce-consumer-behavior/releases/tag/v1.0.0
+
+2)Pakistan's Largest E-Commerce Dataset
+
+https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
+
+GITHUB
+
+https://github.com/DavidGN2016GFS/pakistan-ecommerce-dataset/releases/tag/v1.0.0
