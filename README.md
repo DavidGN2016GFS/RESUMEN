@@ -16,3 +16,11 @@ https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 GITHUB
 
 https://github.com/DavidGN2016GFS/pakistan-ecommerce-dataset/releases/tag/v1.0.0
+
+3)Fitness Trackers Products Ecommerce ⌚
+
+
+https://www.kaggle.com/datasets/arnabchaki/fitness-trackers-products-ecommerce
+
+GITHUB
+https://github.com/DavidGN2016GFS/fitness-tracker-analysis
