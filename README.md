@@ -17,10 +17,11 @@ GITHUB
 
 https://github.com/DavidGN2016GFS/pakistan-ecommerce-dataset/releases/tag/v1.0.0
 
-3)Fitness Trackers Products Ecommerce ⌚
+3)Google Analytics EDA + LightGBM + Screenshots
 
 
-https://www.kaggle.com/datasets/arnabchaki/fitness-trackers-products-ecommerce
+
+https://www.kaggle.com/code/erikbruin/google-analytics-eda-lightgbm-screenshots/input 
 
 GITHUB
 
