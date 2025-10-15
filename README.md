@@ -26,3 +26,6 @@ https://www.kaggle.com/code/erikbruin/google-analytics-eda-lightgbm-screenshots/
 GITHUB
 
 https://github.com/DavidGN2016GFS/fitness-tracker-analysis
+
+4)Github: https://github.com/DavidGN2016GFS/ecommerce-order-analysis 
+Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
