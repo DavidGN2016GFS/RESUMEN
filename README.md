@@ -29,3 +29,8 @@ https://github.com/DavidGN2016GFS/fitness-tracker-analysis
 
 4)Github: https://github.com/DavidGN2016GFS/ecommerce-order-analysis 
 Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
+
+5) github
+   https://github.com/DavidGN2016GFS/ecommerce-width-prediction/releases/tag/v1.0.0
+   Kaggle
+   https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data
