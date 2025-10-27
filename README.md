@@ -34,3 +34,6 @@ Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
    https://github.com/DavidGN2016GFS/ecommerce-width-prediction/releases/tag/v1.0.0
    Kaggle
    https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data
+
+   6). github: https://github.com/DavidGN2016GFS/ecommerce-purchase-prediction
+   Kaggle: https://www.kaggle.com/datasets/bytadit/transactional-ecommerce?select=click_stream.csv
