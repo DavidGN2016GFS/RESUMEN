@@ -37,3 +37,4 @@ Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
 
    6). github: https://github.com/DavidGN2016GFS/ecommerce-purchase-prediction
    Kaggle: https://www.kaggle.com/datasets/bytadit/transactional-ecommerce?select=click_stream.csv
+7)  kaggle :https://www.kaggle.com/datasets/kuldeeppatel08/ecommerce-uk-retailer
