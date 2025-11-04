@@ -39,3 +39,6 @@ Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
    Kaggle: https://www.kaggle.com/datasets/bytadit/transactional-ecommerce?select=click_stream.csv
    
 7)  kaggle :https://www.kaggle.com/datasets/kuldeeppatel08/ecommerce-uk-retailer.  github. https://github.com/DavidGN2016GFS/analisis_ventas_online_retail
+
+8)  https://datosabiertos.mef.gob.pe/dataset/comparacion-de-presupuesto-ejecucion-gasto
+   GitHub?  https://github.com/DavidGN2016GFS/comparativo-gastos-peru-2012-2025
