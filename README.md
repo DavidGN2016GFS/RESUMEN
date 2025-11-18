@@ -8,6 +8,7 @@ https://www.kaggle.com/datasets/ddosad/ecommerce-customer-service-satisfaction
 GITHUB
 
 https://github.com/DavidGN2016GFS/ecommerce-consumer-behavior/releases/tag/v1.0.0
+Description: Se evaluaron tres modelos de clasificación —SVM, Random Forest y Redes Neuronales (ANN)— para predecir la insatisfacción del cliente a partir de variables estructuradas y comentarios de texto. Los resultados muestran que no existe un modelo óptimo, pero cada uno destaca en distintos aspectos: Random Forest obtiene el mayor recall general, mientras que SVM y ANN logran un mejor equilibrio entre precisión y recall para la clase minoritaria (clientes insatisfechos). El análisis de texto reveló que la mayoría de comentarios son neutros y que existen grandes desbalances de clase, lo que afecta el rendimiento de los modelos. Se identificó que términos positivos como “good” y “nice” dominan en comentarios satisfactorios, mientras que palabras como “not”, “issue” y “pathetic service” caracterizan los negativos. Para mejorar el desempeño, se recomienda ajustar hiperparámetros, reforzar técnicas de balanceo y ampliar el conjunto de datos para capturar mejor los patrones de insatisfacción.
 
 2)Pakistan's Largest E-Commerce Dataset
 
