@@ -67,3 +67,8 @@ Para mejorar el proyecto, se propone añadir nuevas variables temporales y demog
 Los resultados obtenidos son relevantes para el problema planteado, ya que permiten orientar estrategias de marketing y fidelización hacia clientes con mayor probabilidad de generar transacciones de alto valor. Esto convierte a los modelos desarrollados en herramientas útiles para la toma de decisiones comerciales y la optimización de campañas.
 8)  https://datosabiertos.mef.gob.pe/dataset/comparacion-de-presupuesto-ejecucion-gasto
    GitHub?  https://github.com/DavidGN2016GFS/comparativo-gastos-peru-2012-2025
+Summary of Conclusions and Future Work
+
+The study developed an optimized Random Forest model capable of accurately classifying the budget execution efficiency of public entities. The use of GridSearchCV significantly enhanced model performance by identifying optimal hyperparameters, while SMOTE corrected class imbalance, ensuring fair learning across High, Medium, and Low efficiency levels. The 2025 dataset was carefully prepared to match the training structure, allowing valid and comparable predictions.
+
+The model provides not only the predicted efficiency category but also its associated probability, enabling early detection of entities with high or low expected performance. This supports preventive public management and improves decision-making.
