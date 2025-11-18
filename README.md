@@ -42,7 +42,10 @@ Finalmente, se guardó el modelo y puede usarse para predecir nuevas observacion
    https://github.com/DavidGN2016GFS/ecommerce-width-prediction/releases/tag/v1.0.0
    Kaggle
    https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data
-
+Se limpió y procesó el dataset, se creó la variable objetivo is_purchase y se aplicó SMOTE para balancear las clases.
+Luego se entrenaron tres modelos: Random Forest, SVM y MLP.
+El Random Forest obtuvo el mejor rendimiento (Accuracy ≈ 0.96 y Recall ≈ 0.96), por lo que se seleccionó como modelo final.
+Este modelo puede usarse directamente para predecir compras nuevas
  6) github: https://github.com/DavidGN2016GFS/ecommerce-purchase-prediction
    Kaggle: https://www.kaggle.com/datasets/bytadit/transactional-ecommerce?select=click_stream.csv
    
