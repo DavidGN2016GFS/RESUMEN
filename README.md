@@ -35,7 +35,9 @@ Se recomienda optimizar hiperparámetros, generar nuevas características (como 
 
 4)Github: https://github.com/DavidGN2016GFS/ecommerce-order-analysis 
 Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
-
+Se procesó y limpió el dataset, se generaron variables numéricas y de texto (TF-IDF) y se aplicó balanceo con SMOTE. Luego se entrenaron tres modelos de clasificación: Random Forest, SVM y Red Neuronal (MLP).
+El mejor desempeño lo obtuvo Random Forest, con la mayor precisión y F1-score, por lo que se seleccionó como modelo final para predecir la probabilidad de compra.
+Finalmente, se guardó el modelo y puede usarse para predecir nuevas observaciones con model.predict() después de aplicar el mismo preprocesamiento.
 5) github
    https://github.com/DavidGN2016GFS/ecommerce-width-prediction/releases/tag/v1.0.0
    Kaggle
