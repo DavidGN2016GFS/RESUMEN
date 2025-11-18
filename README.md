@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset
 GITHUB
 
 https://github.com/DavidGN2016GFS/pakistan-ecommerce-dataset/releases/tag/v1.0.0
-
+Descripción: Se analizó un conjunto de datos de ventas minoristas que incluía información sobre clientes, productos, métodos de envío y satisfacción. Se realizaron estadísticas descriptivas, correlaciones, series temporales, análisis de texto y varios modelos de clasificación para predecir la insatisfacción del cliente. Las ventas muestran variaciones claras por mes y categoría, aunque ninguna variable numérica correlaciona fuertemente con la insatisfacción. Los comentarios negativos contienen palabras asociadas a problemas de servicio, mientras que los positivos muestran términos de buena experiencia. Los modelos SVM, Random Forest y Red Neuronal tuvieron desempeños débiles debido al fuerte desbalance de clases y a la falta de patrones claros en los datos; aun así, el Random Forest obtuvo el mejor recall general. Se recomienda mejorar el balanceo, ajustar hiperparámetros e incrementar los datos para lograr predicciones más confiables.
 3)Google Analytics EDA + LightGBM + Screenshots
 
 
