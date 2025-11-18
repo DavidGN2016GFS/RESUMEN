@@ -27,6 +27,11 @@ https://www.kaggle.com/code/erikbruin/google-analytics-eda-lightgbm-screenshots/
 GITHUB
 
 https://github.com/DavidGN2016GFS/fitness-tracker-analysis
+Descripción:El análisis comparó dos modelos de regresión (SVR y Random Forest) para predecir el ancho del producto usando sus dimensiones físicas y precio.
+Random Forest obtuvo el mejor rendimiento, con R² = 0.91 y MAE ≈ 1 cm, superando al SVR. Su capacidad para capturar relaciones no lineales lo hizo más efectivo.
+Las variables más correlacionadas con el ancho fueron: largo, peso, alto y precio, lo que es coherente con la lógica del producto.
+La validación cruzada confirmó la estabilidad del Random Forest (R² promedio ≈ 0.895).
+Se recomienda optimizar hiperparámetros, generar nuevas características (como volumen), probar redes neuronales y usar interpretabilidad (SHAP) para mejorar el modelo.
 
 4)Github: https://github.com/DavidGN2016GFS/ecommerce-order-analysis 
 Kaggle: https://www.kaggle.com/datasets/bytadit/ecommerce-order-dataset
