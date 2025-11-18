@@ -56,6 +56,14 @@ Entre las principales mejoras se reconoce la necesidad de optimizar hiperparáme
 
 Finalmente, los resultados permiten a la empresa identificar clientes con alta probabilidad de generar compras de alto valor, facilitando estrategias comerciales más eficientes y orientadas al retorno.
 7)  kaggle :https://www.kaggle.com/datasets/kuldeeppatel08/ecommerce-uk-retailer.  github. https://github.com/DavidGN2016GFS/analisis_ventas_online_retail
+Resumen de Conclusiones y Trabajo Futuro
 
+El proyecto logró identificar patrones clave en los datos de ventas del e-commerce UK Retail, permitiendo diferenciar con efectividad entre transacciones de alto y bajo valor. Variables como TotalAmount, Customer_freq, Items_per_invoice y el mes de compra resultaron ser determinantes en el comportamiento de los clientes. Entre los modelos implementados, el Random Forest y la Red Neuronal MLP destacaron por su mayor precisión y estabilidad.
+
+En cuanto al rendimiento de los modelos, las principales fortalezas fueron el uso de SMOTEENN para balancear las clases, la incorporación de variables derivadas para mejorar el poder predictivo y la validación cruzada aplicada al modelo MLP. No obstante, se identificaron debilidades como la alta demanda computacional del SVM RBF, la sensibilidad al ruido de datos de clientes con pocas transacciones y la falta de una optimización más exhaustiva para la red neuronal.
+
+Para mejorar el proyecto, se propone añadir nuevas variables temporales y demográficas, aplicar métodos avanzados de optimización de hiperparámetros, probar modelos más potentes como XGBoost o LightGBM, y considerar el uso de herramientas AutoML.
+
+Los resultados obtenidos son relevantes para el problema planteado, ya que permiten orientar estrategias de marketing y fidelización hacia clientes con mayor probabilidad de generar transacciones de alto valor. Esto convierte a los modelos desarrollados en herramientas útiles para la toma de decisiones comerciales y la optimización de campañas.
 8)  https://datosabiertos.mef.gob.pe/dataset/comparacion-de-presupuesto-ejecucion-gasto
    GitHub?  https://github.com/DavidGN2016GFS/comparativo-gastos-peru-2012-2025
