@@ -48,7 +48,13 @@ El Random Forest obtuvo el mejor rendimiento (Accuracy ≈ 0.96 y Recall ≈ 0.9
 Este modelo puede usarse directamente para predecir compras nuevas
  6) github: https://github.com/DavidGN2016GFS/ecommerce-purchase-prediction
    Kaggle: https://www.kaggle.com/datasets/bytadit/transactional-ecommerce?select=click_stream.csv
-   
+   El proyecto identificó patrones clave en las ventas del e-commerce UK Retail, logrando diferenciar con eficacia entre transacciones de alto y bajo valor mediante modelos de machine learning. Variables como TotalAmount, Customer_freq, Items_per_invoice y el mes de compra fueron las más influyentes.
+
+Los modelos con mejor desempeño fueron Random Forest y la Red Neuronal (MLP), destacando por su precisión y estabilidad tras aplicar técnicas de balanceo como SMOTEENN y buen feature engineering.
+
+Entre las principales mejoras se reconoce la necesidad de optimizar hiperparámetros (por GridSearch o métodos avanzados), incorporar nuevas variables y probar modelos más avanzados como XGBoost o AutoML.
+
+Finalmente, los resultados permiten a la empresa identificar clientes con alta probabilidad de generar compras de alto valor, facilitando estrategias comerciales más eficientes y orientadas al retorno.
 7)  kaggle :https://www.kaggle.com/datasets/kuldeeppatel08/ecommerce-uk-retailer.  github. https://github.com/DavidGN2016GFS/analisis_ventas_online_retail
 
 8)  https://datosabiertos.mef.gob.pe/dataset/comparacion-de-presupuesto-ejecucion-gasto
